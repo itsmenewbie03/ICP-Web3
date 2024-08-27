@@ -4,11 +4,13 @@
             "frontend": {
                 "entrypoint": "src/index.html"
             },
-            "source": ["src"],
+            "source": [
+                "src"
+            ],
             "type": "assets"
         }
     },
-    "dfx": "0.20.1",
+    "dfx": "0.22.0",
     "version": 1,
     "networks": {
         "local": {
